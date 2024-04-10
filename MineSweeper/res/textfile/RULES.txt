@@ -1,0 +1,32 @@
+How to Play
+
+Welcome to Mariosweeper!
+
+You will be playing as Boo from the Mario Franchise and your objective is to collect as many coins as possible across the field in the least amount of time.
+
+However, mines, disguised as coins, are scattered across the field! If you collect a mine by mistake, it is GAME OVER...
+You are given [flags] to place to note where you think mines are too.
+
+What's more, Mario is here too! Because of your shy personality, when Mario is facing you, you have to hide. You will lose coins continuously until you hide.
+
+---
+Controls
+
+Collect coins - Mouse Right-click
+Place/Take [flags] - Mouse Left-click
+Hide - H
+Pause - P
+Select - SPACE
+Return - ESC
+
+---
+Scoring System 0000
++ no. of Coin x100
++ clear bonus
+x difficulty bonus 
+- [time penalty]
+
+---
+MSG
+
+Start of game display hint: Hint displayed!
